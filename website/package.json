@@ -16,12 +16,12 @@
     "ci": "start-server-and-test 'yarn start-server' '3000|3001' 'yarn run cypress run'"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.20",
-    "@docusaurus/preset-classic": "^2.0.0-beta.20",
+    "@docusaurus/core": "^2.0.0-beta.22",
+    "@docusaurus/preset-classic": "^2.0.0-beta.21",
     "@mdx-js/react": "^1.6.22",
     "@svgr/webpack": "^6.2.1",
-    "amplitude-js": "^8.18.3",
-    "clsx": "^1.1.1",
+    "amplitude-js": "^8.18.5",
+    "clsx": "^1.2.1",
     "docusaurus-plugin-sass": "^0.2.2",
     "docusaurus2-dotenv": "^1.4.0",
     "file-loader": "^6.2.0",
@@ -31,7 +31,7 @@
     "react-dom": "^17.0.1",
     "react-social-login-buttons": "^3.6.0",
     "remark-code-import": "^0.4.0",
-    "sass": "^1.52.1",
+    "sass": "^1.53.0",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
@@ -47,9 +47,9 @@
     ]
   },
   "devDependencies": {
-    "concurrently": "^7.2.0",
-    "cypress": "9.7.0",
-    "cypress-localstorage-commands": "^2.0.0",
+    "concurrently": "^7.2.2",
+    "cypress": "10.3.0",
+    "cypress-localstorage-commands": "^2.1.0",
     "start-server-and-test": "^1.13.1"
   }
 }
