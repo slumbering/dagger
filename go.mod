@@ -18,7 +18,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/moby/buildkit v0.10.4
+	github.com/moby/buildkit v0.10.5
 	github.com/morikuni/aec v1.0.0
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70
 	github.com/opencontainers/go-digest v1.0.0
@@ -62,6 +62,7 @@ require github.com/google/go-cmp v0.5.9
 
 require (
 	github.com/dagger/cuelsp v0.3.4
+	github.com/olekukonko/tablewriter v0.0.5
 	github.com/tliron/kutil v0.1.62
 )
 
@@ -118,7 +119,6 @@ require (
 	github.com/mpvl/unique v0.0.0-20150818121801-cbe035fff7de // indirect
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.12.0 // indirect
-	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.5 // indirect
 	github.com/petermattis/goid v0.0.0-20220712135657-ac599d9cba15 // indirect
