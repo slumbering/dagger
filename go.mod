@@ -24,18 +24,18 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	github.com/tonistiigi/fsutil v0.0.0-20230105215944-fb433841cbfa
 	github.com/weaveworks/common v0.0.0-20230119144549-0aaa5abd1e63
-	go.opentelemetry.io/otel v1.4.1
+	go.opentelemetry.io/otel v1.14.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.4.1
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.4.1
-	go.opentelemetry.io/otel/sdk v1.4.1
-	go.opentelemetry.io/otel/trace v1.4.1
+	go.opentelemetry.io/otel/sdk v1.14.0
+	go.opentelemetry.io/otel/trace v1.14.0
 	golang.org/x/crypto v0.3.0
 	golang.org/x/mod v0.7.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.4.0
+	golang.org/x/sys v0.5.0
 	golang.org/x/term v0.4.0
 	google.golang.org/grpc v1.51.0
 	oss.terrastruct.com/d2 v0.1.5
