@@ -10,16 +10,16 @@ replace cloud.google.com/go => cloud.google.com/go v0.100.2
 require (
 	dagger.io/dagger v0.4.1
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
-	github.com/containerd/containerd v1.6.14
+	github.com/containerd/containerd v1.6.20
 	github.com/dagger/graphql v0.0.0-20221102000338-24d5e47d3b72
 	github.com/dagger/graphql-go-tools v0.0.0-20221102001222-e68b44170936
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/google/go-containerregistry v0.12.1
 	github.com/google/uuid v1.3.0
 	github.com/iancoleman/strcase v0.2.0
-	github.com/moby/buildkit v0.11.1
+	github.com/moby/buildkit v0.11.6
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.1.0-rc2
+	github.com/opencontainers/image-spec v1.1.0-rc2.0.20221005185240-3a7f492d3f1b
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
@@ -87,7 +87,7 @@ require (
 require (
 	github.com/Khan/genqlient v0.5.0 // indirect
 	github.com/Microsoft/go-winio v0.6.0 // indirect
-	github.com/Microsoft/hcsshim v0.9.6 // indirect
+	github.com/Microsoft/hcsshim v0.9.8 // indirect
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
@@ -97,7 +97,7 @@ require (
 	github.com/containerd/fifo v1.0.0 // indirect
 	github.com/containerd/nydus-snapshotter v0.3.1 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.13.0 // indirect
-	github.com/containerd/ttrpc v1.1.0 // indirect
+	github.com/containerd/ttrpc v1.1.1 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/cli v23.0.0-rc.1+incompatible
