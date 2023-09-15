@@ -15,7 +15,7 @@ require (
 	github.com/dagger/graphql-go-tools v0.0.0-20221102001222-e68b44170936
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/google/go-containerregistry v0.12.1
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.3.1
 	github.com/iancoleman/strcase v0.2.0
 	github.com/moby/buildkit v0.11.1
 	github.com/opencontainers/go-digest v1.0.0
