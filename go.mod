@@ -24,14 +24,14 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.4
 	github.com/tonistiigi/fsutil v0.0.0-20230105215944-fb433841cbfa
 	github.com/weaveworks/common v0.0.0-20230119144549-0aaa5abd1e63
-	go.opentelemetry.io/otel v1.4.1
+	go.opentelemetry.io/otel v1.19.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.4.1
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.4.1
 	go.opentelemetry.io/otel/sdk v1.4.1
-	go.opentelemetry.io/otel/trace v1.4.1
+	go.opentelemetry.io/otel/trace v1.19.0
 	golang.org/x/crypto v0.3.0
 	golang.org/x/mod v0.7.0
 	golang.org/x/sync v0.1.0
@@ -74,8 +74,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.4.1 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.4.1 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.4.1 // indirect
-	go.opentelemetry.io/otel/internal/metric v0.27.0 // indirect
-	go.opentelemetry.io/otel/metric v0.27.0 // indirect
+	go.opentelemetry.io/otel/metric v1.19.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.12.0 // indirect
 	golang.org/x/exp v0.0.0-20221126150942-6ab00d035af9 // indirect
 	golang.org/x/image v0.1.0 // indirect
@@ -106,7 +105,7 @@ require (
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/felixge/httpsnoop v1.0.2 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
+	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
