@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
-    "@types/adm-zip": "^0.5.0",
+    "@types/adm-zip": "^0.5.2",
     "@types/mocha": "latest",
     "@types/node": "~16",
     "@types/tar": "^6.1.3",
