@@ -63,11 +63,10 @@ require (
 	github.com/dagger/dagger/internal/mage v0.0.0-00010101000000-000000000000
 	github.com/dave/jennifer v1.7.0
 	github.com/dschmidt/go-layerfs v0.1.0
-	github.com/go-git/go-git/v5 v5.9.0
+	github.com/go-git/go-git/v5 v5.10.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/icholy/replace v0.6.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
 	github.com/koron-go/prefixw v1.0.0
