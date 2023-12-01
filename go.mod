@@ -51,8 +51,8 @@ require (
 	golang.org/x/crypto v0.15.0
 	golang.org/x/mod v0.13.0
 	golang.org/x/sync v0.4.0
-	golang.org/x/sys v0.14.0
-	golang.org/x/term v0.14.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/term v0.15.0
 	google.golang.org/grpc v1.59.0
 	oss.terrastruct.com/d2 v0.4.0
 )
@@ -67,7 +67,6 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/icholy/replace v0.6.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
 	github.com/koron-go/prefixw v1.0.0
