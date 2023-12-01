@@ -59,7 +59,7 @@ require (
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/charmbracelet/lipgloss v0.8.0
+	github.com/charmbracelet/lipgloss v0.9.1
 	github.com/dagger/dagger/internal/mage v0.0.0-00010101000000-000000000000
 	github.com/dave/jennifer v1.7.0
 	github.com/dschmidt/go-layerfs v0.1.0
@@ -67,7 +67,6 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/icholy/replace v0.6.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
 	github.com/koron-go/prefixw v1.0.0
@@ -178,7 +177,7 @@ require (
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/mazznoer/csscolorparser v0.1.3 // indirect
 	github.com/mitchellh/hashstructure/v2 v2.0.2 // indirect
