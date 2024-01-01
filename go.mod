@@ -67,7 +67,6 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/icholy/replace v0.6.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
 	github.com/koron-go/prefixw v1.0.0
@@ -253,7 +252,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/in-toto/in-toto-golang v0.5.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
-	github.com/klauspost/compress v1.16.5
+	github.com/klauspost/compress v1.17.4
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/moby/locker v1.0.1
 	github.com/moby/patternmatcher v0.6.0
