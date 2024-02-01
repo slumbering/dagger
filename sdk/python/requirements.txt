@@ -81,7 +81,7 @@ platformdirs==4.0.0
     #   black
 pluggy==1.3.0
     # via pytest
-pygments==2.16.1
+pygments==2.17.2
     # via rich
 pytest==7.4.3
     # via
