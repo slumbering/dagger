@@ -67,7 +67,6 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gorilla/websocket v1.5.0
-	github.com/icholy/replace v0.6.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
 	github.com/koron-go/prefixw v1.0.0
@@ -82,7 +81,7 @@ require (
 	github.com/prometheus/procfs v0.12.0
 	github.com/psanford/memfs v0.0.0-20230130182539-4dbf7e3e865e
 	github.com/rs/cors v1.10.0
-	github.com/rs/zerolog v1.30.0
+	github.com/rs/zerolog v1.32.0
 	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29
 	github.com/vito/midterm v0.1.4
 	github.com/vito/progrock v0.10.2-0.20230913234310-64b4a1cfb007
