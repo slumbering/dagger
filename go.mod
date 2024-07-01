@@ -27,7 +27,7 @@ require (
 	github.com/creack/pty v1.1.18
 	github.com/dave/jennifer v1.7.0
 	github.com/denisbrodbeck/machineid v1.0.1
-	github.com/docker/cli v25.0.1+incompatible
+	github.com/docker/cli v27.0.3+incompatible
 	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v25.0.1+incompatible
 	github.com/dschmidt/go-layerfs v0.1.0
