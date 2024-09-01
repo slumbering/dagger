@@ -2,7 +2,7 @@
 #    uv pip compile -o requirements/docs.txt -
 alabaster==0.7.16
     # via sphinx
-babel==2.14.0
+babel==2.16.0
     # via sphinx
 certifi==2024.2.2
     # via requests
