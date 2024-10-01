@@ -4,7 +4,7 @@ anyio==4.3.0
     # via
     #   gql
     #   httpx
-attrs==23.2.0
+attrs==24.2.0
     # via cattrs
 backoff==2.2.1
     # via gql
