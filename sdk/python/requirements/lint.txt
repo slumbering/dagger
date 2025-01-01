@@ -12,7 +12,7 @@ packaging==23.2
     # via black
 pathspec==0.12.1
     # via black
-platformdirs==4.2.0
+platformdirs==4.3.6
     # via black
 ruff==0.1.15
 typing-extensions==4.10.0
