@@ -1,6 +1,7 @@
 module github.com/dagger/dagger
 
 go 1.21
+toolchain go1.24.1
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -94,7 +95,7 @@ require (
 	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.17.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.17.0
+	golang.org/x/sys v0.32.0
 	golang.org/x/term v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.17.0
