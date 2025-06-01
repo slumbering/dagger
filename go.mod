@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.21
+go 1.23.0
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -61,7 +61,7 @@ require (
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/procfs v0.12.0
+	github.com/prometheus/procfs v0.16.1
 	github.com/psanford/memfs v0.0.0-20230130182539-4dbf7e3e865e
 	github.com/rs/cors v1.10.0
 	github.com/rs/zerolog v1.32.0
@@ -93,8 +93,8 @@ require (
 	golang.org/x/mod v0.14.0
 	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.17.0
-	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.17.0
+	golang.org/x/sync v0.13.0
+	golang.org/x/sys v0.32.0
 	golang.org/x/term v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.17.0
@@ -188,7 +188,7 @@ require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/pprof v0.0.0-20231101202521-4ca4178f5c7a // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.1 // indirect
