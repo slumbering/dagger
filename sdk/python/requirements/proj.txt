@@ -17,7 +17,7 @@ certifi==2024.2.2
 gql==3.5.0
 graphql-core==3.2.3
     # via gql
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.4
     # via httpx
