@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.21
+go 1.24.0
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -32,7 +32,7 @@ require (
 	github.com/docker/docker v25.0.1+incompatible
 	github.com/dschmidt/go-layerfs v0.1.0
 	github.com/go-git/go-git/v5 v5.11.0
-	github.com/gofrs/flock v0.8.1
+	github.com/gofrs/flock v0.13.0
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-containerregistry v0.19.0
 	github.com/google/go-github/v50 v50.2.0
@@ -71,7 +71,7 @@ require (
 	github.com/sourcegraph/conc v0.3.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tidwall/gjson v1.17.0
 	github.com/tonistiigi/fsutil v0.0.0-20240301111122-7525a1af2bb5
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
@@ -94,7 +94,7 @@ require (
 	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.17.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.17.0
+	golang.org/x/sys v0.37.0
 	golang.org/x/term v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.17.0
