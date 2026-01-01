@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.21
+go 1.23
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -43,7 +43,7 @@ require (
 	github.com/iancoleman/strcase v0.3.0
 	github.com/jackpal/gateway v1.0.7
 	github.com/juju/ansiterm v1.0.0
-	github.com/klauspost/compress v1.17.4
+	github.com/klauspost/compress v1.18.2
 	github.com/mackerelio/go-osstat v0.2.4
 	github.com/mattn/go-isatty v0.0.20
 	github.com/mitchellh/go-spdx v0.1.0
