@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.21
+go 1.23
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -77,7 +77,7 @@ require (
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea
 	github.com/urfave/cli v1.22.14
 	github.com/vektah/gqlparser/v2 v2.5.10
-	github.com/vito/midterm v0.1.5-0.20240215023001-e649b2677bfa
+	github.com/vito/midterm v0.2.3
 	github.com/vito/progrock v0.10.2-0.20240221152222-63c8df30db8d
 	github.com/weaveworks/common v0.0.0-20230119144549-0aaa5abd1e63
 	github.com/zeebo/xxh3 v1.0.2
@@ -162,6 +162,10 @@ require (
 	github.com/containernetworking/plugins v1.4.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
+	github.com/danielgatis/go-ansicode v1.0.7 // indirect
+	github.com/danielgatis/go-iterator v0.0.1 // indirect
+	github.com/danielgatis/go-utf8 v1.0.0 // indirect
+	github.com/danielgatis/go-vte v1.0.8 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/distribution/reference v0.5.0 // indirect

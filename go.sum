@@ -457,6 +457,14 @@ github.com/creack/pty v1.1.18/go.mod h1:MOBLtS5ELjhRRrroQr9kyvTxUAFNvYEK993ew/Vr
 github.com/cyphar/filepath-securejoin v0.2.2/go.mod h1:FpkQEhXnPnOthhzymB7CGsFk2G9VLXONKD9G7QGMM+4=
 github.com/cyphar/filepath-securejoin v0.2.4 h1:Ugdm7cg7i6ZK6x3xDF1oEu1nfkyfH53EtKeQYTC3kyg=
 github.com/cyphar/filepath-securejoin v0.2.4/go.mod h1:aPGpWjXOXUn2NCNjFvBE6aRxGGx79pTxQpKOJNYHHl4=
+github.com/danielgatis/go-ansicode v1.0.7 h1:ozOFtNlQHgI3lMJFbT0CxqbbToqtT7mu8GXOwq10Xn0=
+github.com/danielgatis/go-ansicode v1.0.7/go.mod h1:xft3lPCsvHAC9KEGRcEzX+Jm8bTyUbya4rk7zD/nWvk=
+github.com/danielgatis/go-iterator v0.0.1 h1:pTptWDVAKzR0EUdtfmFMP3v+hSetqB091V9um1DTO8I=
+github.com/danielgatis/go-iterator v0.0.1/go.mod h1:+gTbPAMdVIKwmqw7kr/mo5IFIzz2MFiRyYylcRvgbHs=
+github.com/danielgatis/go-utf8 v1.0.0 h1:M7z8heSUa2PF1NoxgD0X6LbOAqMskMf433lFP/Qtal0=
+github.com/danielgatis/go-utf8 v1.0.0/go.mod h1:h8SG9aqqV20w8tUD7maLYwfAeQzvjDXNP89oth2qOxM=
+github.com/danielgatis/go-vte v1.0.8 h1:ot/fnUB7dMag0lMurMCei4mjRI8KyxpLeA7lhTtdgTo=
+github.com/danielgatis/go-vte v1.0.8/go.mod h1:HBeSBT/XiLQRNEoYpBYrBeK2mSUkOfHvsVtb8LPmexQ=
 github.com/dave/jennifer v1.7.0 h1:uRbSBH9UTS64yXbh4FrMHfgfY762RD+C7bUPKODpSJE=
 github.com/dave/jennifer v1.7.0/go.mod h1:nXbxhEmQfOZhWml3D1cDK5M1FLnMSozpbFN/m3RmGZc=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -1483,8 +1491,8 @@ github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df/go.mod h1:JP3t17
 github.com/vishvananda/netns v0.0.0-20200728191858-db3c7e526aae/go.mod h1:DD4vA1DwXk04H54A1oHXtwZmA0grkVMdPxx/VGLCah0=
 github.com/vishvananda/netns v0.0.4 h1:Oeaw1EM2JMxD51g9uhtC0D7erkIjgmj8+JZc26m1YX8=
 github.com/vishvananda/netns v0.0.4/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
-github.com/vito/midterm v0.1.5-0.20240215023001-e649b2677bfa h1:2zKtb3ChJT0FBEt+AU64Rk3hT2kPjNf94QEyyDYaBaE=
-github.com/vito/midterm v0.1.5-0.20240215023001-e649b2677bfa/go.mod h1:2ujYuyOObdWrQtnXAzwSBcPRKhC5Q96ex0nsf2Dmfzk=
+github.com/vito/midterm v0.2.3 h1:UgukMrLJP/ALIcXxf7dm4YvRriZKil3mFCGVoX5gPJM=
+github.com/vito/midterm v0.2.3/go.mod h1:WkbqZBIhH4jfxXkE2bjhosM1BdF/dCp7sR4x9wQB6fA=
 github.com/vito/progrock v0.10.2-0.20240221152222-63c8df30db8d h1:hh9zh0tcr3/th/mtxEpzLVE8rvx+LejDrbWmqmi+RUM=
 github.com/vito/progrock v0.10.2-0.20240221152222-63c8df30db8d/go.mod h1:Q8hxIUXZW8vkezLwH4TnRmXv+XdRb4KfLtS9t5RtH9g=
 github.com/vmware/govmomi v0.20.3/go.mod h1:URlwyTFZX72RmxtxuaFL2Uj3fD1JTvZdx59bHWk6aFU=
