@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.21
+go 1.23
 
 replace dagger.io/dagger => ./sdk/go
 
@@ -23,7 +23,7 @@ require (
 	github.com/containerd/fuse-overlayfs-snapshotter v1.0.6
 	github.com/containerd/stargz-snapshotter v0.15.1
 	github.com/containernetworking/cni v1.1.2
-	github.com/coreos/go-systemd/v22 v22.5.0
+	github.com/coreos/go-systemd/v22 v22.7.0
 	github.com/creack/pty v1.1.18
 	github.com/dave/jennifer v1.7.0
 	github.com/denisbrodbeck/machineid v1.0.1
@@ -64,7 +64,7 @@ require (
 	github.com/prometheus/procfs v0.12.0
 	github.com/psanford/memfs v0.0.0-20230130182539-4dbf7e3e865e
 	github.com/rs/cors v1.10.0
-	github.com/rs/zerolog v1.32.0
+	github.com/rs/zerolog v1.35.1
 	github.com/samber/slog-logrus/v2 v2.2.0
 	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29
 	github.com/sirupsen/logrus v1.9.3
@@ -94,7 +94,7 @@ require (
 	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.17.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.17.0
+	golang.org/x/sys v0.29.0
 	golang.org/x/term v0.17.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.17.0
@@ -210,7 +210,7 @@ require (
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/lunixbochs/vtclean v1.0.0 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
 	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
